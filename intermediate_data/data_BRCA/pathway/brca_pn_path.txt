@@ -1,0 +1,119 @@
+The oncogenic action of Succinate
+The oncogenic action of Fumarate
+Gene Expression
+The oncogenic action of 2-hydroxyglutarate
+E2F transcription factor network
+Apoptotic execution  phase
+The oncogenic action of L-2-hydroxyglutarate in  Hydroxygluaricaciduria
+The oncogenic action of D-2-hydroxyglutarate in  Hydroxygluaricaciduria 
+Metabolism of proteins
+tRNA Aminoacylation
+Mitotic G1-G1/S phases
+RSK activation
+Protein processing in endoplasmic reticulum - Homo sapiens (human)
+Regulation of TP53 Degradation
+Regulation of TP53 Expression and Degradation
+trefoil factors initiate mucosal healing
+mRNA Splicing
+DDX1 as a regulatory component of the Drosha microprocessor
+Pyrophosphate hydrolysis
+hypusine biosynthesis
+Cytosolic tRNA aminoacylation
+Clathrin-mediated endocytosis
+hiv-1 nef: negative effector of fas and tnf
+Cyclin D associated events in G1
+G1 Phase
+Apoptosis
+Recycling pathway of L1
+Cell cycle - Homo sapiens (human)
+eukaryotic protein translation
+FGF signaling pathway
+Programmed Cell Death
+Processing of Capped Intron-Containing Pre-mRNA
+mRNA Splicing - Major Pathway
+mRNA Processing
+Fibroblast growth factor-1
+atm signaling pathway
+Citrate cycle
+Oncogene Induced Senescence
+Nef Mediated CD4 Down-regulation
+role of egf receptor transactivation by gpcrs in cardiac hypertrophy
+ceramide signaling pathway
+Signaling by Rho GTPases
+Cargo recognition for clathrin-mediated endocytosis
+Pyruvate dehydrogenase deficiency (E3)
+Pyruvate dehydrogenase deficiency (E2)
+2-ketoglutarate dehydrogenase complex deficiency
+Mitochondrial complex II deficiency
+Fumarase deficiency
+Congenital lactic acidosis
+Citric Acid Cycle
+Signaling Pathways in Glioblastoma
+HIV-1 Nef: Negative effector of Fas and TNF-alpha
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters
+cell cycle: g2/m checkpoint
+ERK/MAPK targets
+E2F mediated regulation of DNA replication
+Ribosomal scanning and start codon recognition
+Regulation of TP53 Activity
+Synaptic Vesicle Pathway
+Lysosome Vesicle Biogenesis
+"Cell Cycle, Mitotic"
+G1 to S cell cycle control
+Translation initiation complex formation
+RHO GTPase Effectors
+Canonical NF-kappaB pathway
+Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling
+"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S"
+"Hh mutants that don,t undergo autocatalytic processing are degraded by ERAD"
+Hh mutants abrogate ligand secretion
+Post-translational protein modification
+Metabolism of amino acids and derivatives
+Catecholamine biosynthesis
+catecholamine biosynthesis
+Tyrosine hydroxylase deficiency
+Catecholamine Biosynthesis
+Aromatic L-Aminoacid Decarboxylase Deficiency
+glutaryl-CoA degradation
+"TET1,2,3 and TDG demethylate DNA"
+Hypusine synthesis from eIF5A-lysine
+UTP and CTP dephosphorylation II
+Cytoplasmic Ribosomal Proteins
+Cell Cycle
+G13 Signaling Pathway
+Pyruvate metabolism - Homo sapiens (human)
+Dopamine metabolism
+Activation of DNA fragmentation factor
+Apoptosis induced DNA fragmentation
+SeMet incorporation into proteins
+ERKs are inactivated
+Inhibition of replication initiation of damaged DNA by RB1/E2F1
+Nuclear Events (kinase and transcription factor activation)
+Amino Acid metabolism
+Regulation of Actin Cytoskeleton
+Clathrin derived vesicle budding
+trans-Golgi Network Vesicle Budding
+Chronic myeloid leukemia - Homo sapiens (human)
+Apoptosis Modulation and Signaling
+Apoptosis Modulation and Signaling
+Apoptosis Modulation and Signaling
+Fc gamma R-mediated phagocytosis - Homo sapiens (human)
+Integrated Lung Cancer Pathway
+mTOR signaling pathway - Homo sapiens (human)
+Translation
+Golgi Associated Vesicle Biogenesis
+Caspase Cascade in Apoptosis
+Spliceosome - Homo sapiens (human)
+Signaling events mediated by HDAC Class I
+Cap-dependent Translation Initiation
+Eukaryotic Translation Initiation
+Sema4D in semaphorin signaling
+Muscarinic acetylcholine receptors
+MET activates PTPN11
+miRNA Biogenesis
+RNA interference
+Ub-specific processing proteases
+Ubiquitin mediated proteolysis - Homo sapiens (human)
+double stranded rna induced gene expression
+TWEAK
+Insulin Signaling

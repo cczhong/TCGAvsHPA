@@ -1,0 +1,186 @@
+pathway
+ErbB1 downstream signaling
+mTOR signaling pathway
+Signaling events mediated by VEGFR1 and VEGFR2
+Negative regulation of MAPK pathway
+TP53 Regulates Metabolic Genes
+Membrane Trafficking
+Tuberculosis - Homo sapiens (human)
+Vesicle-mediated transport
+Mitochondrial protein import
+RAB geranylgeranylation
+insulin
+BDNF-TrkB Signaling
+Apoptosis
+Transcriptional Regulation by TP53
+Clathrin-mediated endocytosis
+Saturated fatty acids beta-oxidation
+Programmed Cell Death
+insulin Mam
+PDGFR-beta signaling pathway
+Disease
+Trk receptor signaling mediated by PI3K and PLC-gamma
+Pathway_PA165959425
+EGF-EGFR Signaling Pathway
+"Valine, leucine and isoleucine degradation"
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA
+mTOR signalling
+MAP2K and MAPK activation
+Diseases of signal transduction
+Insulin-mediated glucose transport
+PKB-mediated events
+EGFR1
+mRNA Splicing - Major Pathway
+Activated NOTCH1 Transmits Signal to the Nucleus
+The citric acid (TCA) cycle and respiratory electron transport
+Metabolism of proteins
+p73 transcription factor network
+NGF
+NOTCH2 Activation and Transmission of Signal to the Nucleus
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."
+Valine Leucine Isoleucine degradation
+Cell Cycle
+mRNA Splicing
+Signaling Pathways in Glioblastoma
+Non-small cell lung cancer - Homo sapiens (human)
+mTORC1-mediated signalling
+Golgi Associated Vesicle Biogenesis
+Validated transcriptional targets of TAp63 isoforms
+Signaling by NOTCH2
+TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation
+2-LTR circle formation
+Kit receptor signaling pathway
+Gene Expression
+Hepatitis C - Homo sapiens (human)
+Respiratory electron transport
+Clathrin derived vesicle budding
+trans-Golgi Network Vesicle Budding
+Primary Focal Segmental Glomerulosclerosis FSGS
+VEGFA-VEGFR2 Signaling Pathway
+Signaling by high-kinase activity BRAF mutants
+Leucine Stimulation on Insulin Signaling
+Constitutive Signaling by NOTCH1 HD Domain Mutants
+Signaling by NOTCH1 HD Domain Mutants in Cancer
+Activation of BAD and translocation to mitochondria 
+"mRNA decay by 5, to 3, exoribonuclease"
+Signaling by BRAF and RAF fusions
+a6b1 and a6b4 Integrin signaling
+RAF activation
+TNFalpha
+Leptin
+Leptin signaling pathway
+Amino Acid metabolism
+Signaling by RAS mutants
+chromatin remodeling by hswi/snf atp-dependent complexes
+Lysosome - Homo sapiens (human)
+MAP kinase cascade
+mtor signaling pathway
+Cytosolic tRNA aminoacylation
+VEGFA-VEGFR2 Pathway
+Post-translational protein modification
+FoxO family signaling
+IL4
+Oncogenic MAPK signaling
+"Huntington,s disease - Homo sapiens (human)"
+Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways
+Sorafenib Pharmacodynamics
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+TNF signaling pathway - Homo sapiens (human)
+Processing of Capped Intron-Containing Pre-mRNA
+"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression"
+Signaling by moderate kinase activity BRAF mutants
+Paradoxical activation of RAF signaling by kinase inactive BRAF
+mRNA Processing
+Renal cell carcinoma - Homo sapiens (human)
+Glioma - Homo sapiens (human)
+Organelle biogenesis and maintenance
+Insulin receptor signalling cascade
+EGF
+Signaling by VEGF
+miR-targeted genes in lymphocytes - TarBase
+Apoptotic execution  phase
+FGF
+Hepatitis B - Homo sapiens (human)
+Signaling by plasma membrane FGFR1 fusions
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+Signaling by NOTCH1 in Cancer
+Constitutive Signaling by NOTCH1 PEST Domain Mutants
+Signaling by NOTCH1 PEST Domain Mutants in Cancer
+Signaling by Rho GTPases
+tRNA charging
+the information processing pathway at the ifn beta enhancer
+Thyroid cancer - Homo sapiens (human)
+Protein processing in endoplasmic reticulum - Homo sapiens (human)
+Signaling by Insulin receptor
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest
+Tight junction interactions
+RHO GTPase Effectors
+mitochondrial fatty acid beta-oxidation of saturated fatty acids
+Stabilization of p53
+Integration of provirus
+Thyroid hormone signaling pathway - Homo sapiens (human)
+IFN-gamma pathway
+Interferon Signaling
+EGF-Ncore
+Deadenylation-dependent mRNA decay
+Retinoic acid receptors-mediated signaling
+Activation of BH3-only proteins
+Interleukin-11 Signaling Pathway
+Intrinsic Pathway for Apoptosis
+Structural Pathway of Interleukin 1 (IL-1)
+Regulation of TP53 Activity through Methylation
+Asparagine N-linked glycosylation
+Tight junction - Homo sapiens (human)
+Signaling by NOTCH1
+Neurotrophin signaling pathway - Homo sapiens (human)
+Oncogene Induced Senescence
+Androgen receptor signaling pathway
+Prostate cancer - Homo sapiens (human)
+tRNA Aminoacylation
+miR-targeted genes in leukocytes - TarBase
+Fibroblast growth factor-1
+RMTs methylate histone arginines
+IRS-mediated signalling
+RHO GTPases activate KTN1
+3-oxo-10R-octadecatrienoate beta-oxidation
+Signaling by NOTCH4
+Signaling by NOTCH3
+Mono-unsaturated fatty acid beta-oxidation
+p38 signaling mediated by MAPKAP kinases
+Axon guidance - Homo sapiens (human)
+Cell cycle - Homo sapiens (human)
+CMP-<i>N</i>-acetylneuraminate biosynthesis I (eukaryotes)
+UTP and CTP dephosphorylation II
+Neutrophil degranulation
+IRS-related events triggered by IGF1R
+IGF1R signaling cascade
+VEGF signaling pathway - Homo sapiens (human)
+Notch
+Cell-cell junction organization
+Angiogenesis overview
+Notch Signaling Pathway
+VEGF Signaling Pathway
+miR-targeted genes in epithelium - TarBase
+Signaling by SCF-KIT
+Fc gamma R-mediated phagocytosis - Homo sapiens (human)
+Cellular responses to stress
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+phosphoinositides and their downstream targets
+cell cycle: g2/m checkpoint
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle
+ISG15 antiviral mechanism
+Antiviral mechanism by IFN-stimulated genes
+Prostaglandin formation from arachidonate
+IL6
+Brain-Derived Neurotrophic Factor (BDNF) signaling pathway
+eNOS activation
+Dimethyl-branched-chain fatty acid mitochondrial beta-oxidation
+Trihydroxycoprostanoyl-CoA beta-oxidation
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex
+"Valine, leucine and isoleucine degradation - Homo sapiens (human)"
+IL6-mediated signaling events
+Ceramide signaling pathway
+Notch signaling pathway - Homo sapiens (human)
+TBC/RABGAPs

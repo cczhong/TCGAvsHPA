@@ -1,0 +1,175 @@
+Protein processing in endoplasmic reticulum - Homo sapiens (human)
+"Alzheimer,s disease - Homo sapiens (human)"
+Saturated fatty acids beta-oxidation
+Photodynamic therapy-induced unfolded protein response
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."
+Peroxisome - Homo sapiens (human)
+TRAIL signaling pathway
+The citric acid (TCA) cycle and respiratory electron transport
+Mitochondrial LC-Fatty Acid Beta-Oxidation
+Cellular responses to stress
+fatty acid &beta;-oxidation (peroxisome)
+Metabolism
+Peroxisomal lipid metabolism
+Signaling by FGFR4 in disease
+3-oxo-10R-octadecatrienoate beta-oxidation
+Apoptosis-related network due to altered Notch3 in ovarian cancer
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA
+Beta oxidation of butanoyl-CoA to acetyl-CoA
+TNF
+Signaling by FGFR4
+Serotonin Receptor 2 and ELK-SRF-GATA4 signaling
+HH-Ncore
+Signaling Pathways in Glioblastoma
+Signaling events mediated by VEGFR1 and VEGFR2
+Trihydroxycoprostanoyl-CoA beta-oxidation
+Metabolism of proteins
+Mono-unsaturated fatty acid beta-oxidation
+Fatty acid degradation - Homo sapiens (human)
+Respiratory electron transport
+Hedgehog
+Fatty Acid Biosynthesis
+ceramide signaling pathway
+Beta-oxidation of very long chain fatty acids
+Apoptosis
+Di-unsaturated fatty acid beta-oxidation
+TNF receptor signaling pathway 
+VEGF Signaling Pathway
+Programmed Cell Death
+TNF alpha Signaling Pathway
+"Valine, leucine and isoleucine degradation"
+Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
+CD4 T cell receptor signaling
+TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation
+Hedgehog
+Unfolded Protein Response (UPR)
+Sorafenib Metabolism Pathway
+DroToll-like
+IL-1 NFkB
+Proteoglycans in cancer - Homo sapiens (human)
+Integrins in angiogenesis
+Phytanic acid peroxisomal oxidation
+Hedgehog Signaling Pathway
+Morphine Metabolism Pathway
+Hemostasis
+Apoptotic execution  phase
+Butyrate Metabolism
+Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids
+Short-chain 3-hydroxyacyl-CoA dehydrogenase deficiency (SCHAD)
+Release of Hh-Np from the secreting cell
+Ligand-receptor interactions
+Signaling by FGFR3
+tnfr1 signaling pathway
+miR-targeted genes in leukocytes - TarBase
+TLR NFkB
+Copper homeostasis
+Leukotriene metabolism
+Axon guidance - Homo sapiens (human)
+Chagas disease (American trypanosomiasis) - Homo sapiens (human)
+FGF signaling pathway
+VEGFR1 specific signals
+Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+Tuberculosis - Homo sapiens (human)
+Caspase Cascade in Apoptosis
+Plasma membrane estrogen receptor signaling
+Omega-6 fatty acid metabolism
+Oxidative Stress
+Etoposide Action Pathway
+Etoposide Metabolism Pathway
+Structural Pathway of Interleukin 1 (IL-1)
+Death Receptor Signalling
+PERK regulates gene expression
+"inosine-5,-phosphate biosynthesis"
+Signaling by plasma membrane FGFR1 fusions
+ErbB4 signaling events
+Pathways in cancer - Homo sapiens (human)
+Oxidative Stress Induced Senescence
+DNA Damage Response (only ATM dependent)
+RIG-I-like Receptor Signaling
+Long-term depression - Homo sapiens (human)
+mitochondrial fatty acid beta-oxidation of saturated fatty acids
+Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids
+Removal of the Flap Intermediate from the C-strand
+VEGF
+Valine Leucine Isoleucine degradation
+S1P1 pathway
+Post-translational protein modification
+Ras signaling pathway - Homo sapiens (human)
+Angiopoietin Like Protein 8 Regulatory Pathway
+CD4 T cell receptor signaling-NFkB cascade
+BDNF-TrkB Signaling
+Signaling by FGFR in disease
+Non-alcoholic fatty liver disease (NAFLD) - Homo sapiens (human)
+E-cadherin signaling in keratinocytes
+Factors involved in megakaryocyte development and platelet production
+Rap1 signaling pathway - Homo sapiens (human)
+"Valine, leucine and isoleucine degradation - Homo sapiens (human)"
+Processive synthesis on the C-strand of the telomere
+cxcr4 signaling pathway
+cardiac protection against ros
+Dimerization of procaspase-8
+Regulation by c-FLIP
+CASP8 activity is inhibited
+Regulation of necroptotic cell death
+Fatty Acid Beta Oxidation
+"Huntington,s disease - Homo sapiens (human)"
+TLR p38
+IL4
+Activated TLR4 signalling
+Toll-Like Receptors Cascades
+Validated nuclear estrogen receptor alpha network
+HGF
+FAS (CD95) signaling pathway
+Thyroid hormone signaling pathway - Homo sapiens (human)
+Signaling by FGFR1
+Estrogen signaling pathway - Homo sapiens (human)
+COPI-dependent Golgi-to-ER retrograde traffic
+Role of second messengers in netrin-1 signaling
+ATF6 (ATF6-alpha) activates chaperones
+N-cadherin signaling events
+Dimethyl-branched-chain fatty acid mitochondrial beta-oxidation
+induction of apoptosis through dr3 and dr4/5 death receptors
+tnf/stress related signaling
+Signaling events mediated by the Hedgehog family
+Ibuprofen Metabolism Pathway
+Irinotecan Action Pathway
+Irinotecan Metabolism Pathway
+Asparagine N-linked glycosylation
+TGF-beta receptor signaling
+Rac1-Pak1-p38-MMP-2 pathway
+IL-1 p38
+Toll-like Receptor Signaling Pathway
+miR-targeted genes in squamous cell - TarBase
+"Cell Cycle, Mitotic"
+Apoptosis - Homo sapiens (human)
+TNF signaling
+Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human)
+Intra-Golgi and retrograde Golgi-to-ER traffic
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC"
+proteasome complex
+Mitotic Prophase
+hiv-1 nef: negative effector of fas and tnf
+Signaling by FGFR1 in disease
+Signaling by ERBB4
+valine degradation
+Lysine Degradation
+"Hyperlysinemia I, Familial"
+2-aminoadipic 2-oxoadipic aciduria
+Pyridoxine dependency with seizures
+Saccharopinuria/Hyperlysinemia II
+Glutaric Aciduria Type I
+Hyperlysinemia II or Saccharopinuria
+Methotrexate Action Pathway
+"Folate malabsorption, hereditary"
+Methylenetetrahydrofolate Reductase Deficiency (MTHFRD)
+Folate Metabolism
+NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10
+RIG-I-like receptor signaling pathway - Homo sapiens (human)
+Toll-like receptor signaling pathway - Homo sapiens (human)
+VEGFR3 signaling in lymphatic endothelium
+Apoptotic cleavage of cellular proteins
+Internalization of ErbB1
+Cell Cycle
+Signaling by FGFR
+Prostate cancer - Homo sapiens (human)
+Ca2+ pathway

@@ -1,0 +1,134 @@
+Adenosine Deaminase Deficiency
+
+Glycerophospholipid metabolism - Homo sapiens (human)
+
+Lesch-Nyhan Syndrome (LNS)
+
+TP53 Regulates Transcription of Cell Death Genes
+
+MAPK family signaling cascades
+
+Interleukin-1 signaling
+
+Other semaphorin interactions
+
+IL1-mediated signaling events
+
+Photodynamic therapy-induced AP-1 survival signaling.
+
+Validated transcriptional targets of deltaNp63 isoforms
+
+CREB phosphorylation through the activation of Ras
+
+"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)"
+
+Purine Metabolism
+
+Ras activation uopn Ca2+ infux through NMDA receptor
+
+Fatty Acid Biosynthesis
+
+Cellular Senescence
+
+HIF-1 signaling pathway - Homo sapiens (human)
+
+Monoamine Transport
+
+Wnt
+
+mets affect on macrophage differentiation
+
+Translation Factors
+
+MAPK Signaling Pathway
+
+Signalling by NGF
+
+JAK STAT pathway and regulation
+
+p75 NTR receptor-mediated signalling
+
+Xanthine Dehydrogenase Deficiency (Xanthinuria)
+
+TCR
+
+Trafficking of AMPA receptors
+
+Synthesis of IP3 and IP4 in the cytosol
+
+NGF signalling via TRKA from the plasma membrane
+
+DNA Damage Response (only ATM dependent)
+
+Insulin signaling pathway - Homo sapiens (human)
+
+Signaling mediated by p38-alpha and p38-beta
+
+E-cadherin signaling in the nascent adherens junction
+
+PCP/CE pathway
+
+Adenylosuccinate Lyase Deficiency
+
+Long-term potentiation - Homo sapiens (human)
+
+Gout or Kelley-Seegmiller Syndrome
+
+Glycosphingolipid biosynthesis - neolactoseries
+
+AICA-Ribosiduria
+
+regulation of eif-4e and p70s6 kinase
+
+Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human)
+
+Xanthinuria type II
+
+Opioid Signalling
+
+Inflammatory mediator regulation of TRP channels - Homo sapiens (human)
+
+PLC-gamma1 signalling
+
+Cell adhesion molecules (CAMs) - Homo sapiens (human)
+
+Myoadenylate deaminase deficiency
+
+Oxidative Stress Induced Senescence
+
+Purine Nucleoside Phosphorylase Deficiency
+
+BCR
+
+Activation of Kainate Receptors upon glutamate binding
+
+EGFR interacts with phospholipase C-gamma
+
+Nuclear Receptors Meta-Pathway
+
+"Glutamate Binding, Activation of AMPA Receptors and Synaptic Plasticity"
+
+Ionotropic activity of Kainate Receptors
+
+Xanthinuria type I
+
+Viral carcinogenesis - Homo sapiens (human)
+
+Mitochondrial DNA depletion syndrome
+
+Transmission across Chemical Synapses
+
+AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human)
+
+Adenine phosphoribosyltransferase deficiency (APRT)
+
+TGF_beta_Receptor
+
+Neurotransmitter Receptor Binding And Downstream Transmission In The  Postsynaptic Cell
+
+Direct p53 effectors
+
+Activation of Ca-permeable Kainate Receptor
+
+Molybdenum Cofactor Deficiency
+

@@ -1,0 +1,166 @@
+Galactosemia II (GALK)
+
+G1/S Transition
+
+Ceramide signaling pathway
+
+Post NMDA receptor activation events
+
+g-secretase mediated erbb4 signaling pathway
+
+GRB2 events in ERBB2 signaling
+
+Hippo signaling pathway - Homo sapiens (human)
+
+Endogenous TLR signaling
+
+FoxO signaling pathway - Homo sapiens (human)
+
+EGFR Transactivation by Gastrin
+
+Biotin transport and metabolism
+
+Viral carcinogenesis - Homo sapiens (human)
+
+Brain-Derived Neurotrophic Factor (BDNF) signaling pathway
+
+Physiological and Pathological Hypertrophy of the Heart
+
+insulin
+
+Nuclear signaling by ERBB4
+
+Purine ribonucleoside monophosphate biosynthesis
+
+Lysosome - Homo sapiens (human)
+
+African trypanosomiasis - Homo sapiens (human)
+
+tRNA Aminoacylation
+
+Bile acid and bile salt metabolism
+
+Neurotransmitter Release Cycle
+
+EGF-EGFR Signaling Pathway
+
+Constitutive Signaling by EGFRvIII
+
+E-cadherin signaling in the nascent adherens junction
+
+Transmission across Chemical Synapses
+
+ErbB signaling pathway - Homo sapiens (human)
+
+Signaling by ERBB2
+
+Signaling by EGFRvIII in Cancer
+
+ErbB1 downstream signaling
+
+mcalpain and friends in cell motility
+
+Phase 1 - Functionalization of compounds
+
+Galactosemia III
+
+Synthesis of bile acids and bile salts
+
+RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+
+MET activates PTK2 signaling
+
+Folate metabolism
+
+Sulfur metabolism - Homo sapiens (human)
+
+TRIF-mediated programmed cell death
+
+VEGFA-VEGFR2 Signaling Pathway
+
+DNA strand elongation
+
+Ligand-dependent caspase activation
+
+TRIF-mediated TLR3/TLR4 signaling 
+
+akt signaling pathway
+
+Toll Like Receptor 3 (TLR3) Cascade
+
+role of egf receptor transactivation by gpcrs in cardiac hypertrophy
+
+MyD88-independent TLR3/TLR4 cascade 
+
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+
+NGF
+
+CREB phosphorylation through the activation of Ras
+
+Signaling by EGFR in Cancer
+
+Primary bile acid biosynthesis - Homo sapiens (human)
+
+Triglyceride Biosynthesis
+
+Other semaphorin interactions
+
+TGF-beta signaling pathway - Homo sapiens (human)
+
+Nucleotide Sugars Metabolism
+
+"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"
+
+Prolactin signaling pathway - Homo sapiens (human)
+
+IGF signaling
+
+TNFalpha
+
+Methylation Pathways
+
+Syndecan interactions
+
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants
+
+TNF related weak inducer of apoptosis (TWEAK) Signaling Pathway
+
+Golgi Cisternae Pericentriolar Stack Reorganization
+
+Corticotropin-releasing hormone signaling pathway
+
+Developmental Biology
+
+Dermatan sulfate biosynthesis
+
+Import of palmitoyl-CoA into the mitochondrial matrix
+
+Golgi-to-ER retrograde transport
+
+inactivation of gsk3 by akt causes accumulation of b-catenin in alveolar macrophages
+
+CDC42 signaling events
+
+Fibroblast growth factor-1
+
+Citrate cycle
+
+Adipocytokine signaling pathway - Homo sapiens (human)
+
+CREB phosphorylation through the activation of CaMKII
+
+G1 to S cell cycle control
+
+Alpha6Beta4Integrin
+
+Arachidonate Epoxygenase - Epoxide Hydrolase
+
+Signaling by Ligand-Responsive EGFR Variants in Cancer
+
+Focal adhesion - Homo sapiens (human)
+
+Omega-3 fatty acid metabolism
+
+Glucagon signaling pathway - Homo sapiens (human)
+

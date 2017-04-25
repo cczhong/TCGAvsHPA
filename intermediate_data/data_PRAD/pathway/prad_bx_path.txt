@@ -1,0 +1,333 @@
+pathway
+Cytoplasmic Ribosomal Proteins
+Metabolism
+Selenoamino acid metabolism
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+Calcium Regulation in the Cardiac Cell
+Formation of a pool of free 40S subunits
+Pathways in cancer - Homo sapiens (human)
+Eukaryotic Translation Termination
+Peptide chain elongation
+Eukaryotic Translation Elongation
+Selenocysteine synthesis
+Muscle contraction
+Translation
+SRP-dependent cotranslational protein targeting to membrane
+Focal adhesion - Homo sapiens (human)
+L13a-mediated translational silencing of Ceruloplasmin expression
+"3, -UTR-mediated translational regulation"
+GTP hydrolysis and joining of the 60S ribosomal subunit
+Cap-dependent Translation Initiation
+Eukaryotic Translation Initiation
+cGMP-PKG signaling pathway - Homo sapiens (human)
+Hippo signaling pathway - Homo sapiens (human)
+Proteoglycans in cancer - Homo sapiens (human)
+Signaling by Wnt
+Axon guidance
+Striated Muscle Contraction
+Metabolism of proteins
+Calcium signaling pathway - Homo sapiens (human)
+EGFR1
+HTLV-I infection - Homo sapiens (human)
+Oxytocin signaling pathway - Homo sapiens (human)
+Extracellular matrix organization
+Focal Adhesion
+Ribosome - Homo sapiens (human)
+Myometrial Relaxation and Contraction Pathways
+VEGF
+Metabolism of amino acids and derivatives
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+Nonsense-Mediated Decay (NMD)
+Striated Muscle Contraction
+Dilated cardiomyopathy - Homo sapiens (human)
+Wnt signaling pathway - Homo sapiens (human)
+Asparagine N-linked glycosylation
+Hypertrophic cardiomyopathy (HCM) - Homo sapiens (human)
+IL-7 signaling
+EPO signaling
+"Platelet activation, signaling and aggregation"
+cAMP signaling pathway - Homo sapiens (human)
+Ectoderm Differentiation
+Axon guidance - Homo sapiens (human)
+Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways
+Glutamatergic synapse - Homo sapiens (human)
+Integrin cell surface interactions
+Adipogenesis
+Golgi-to-ER retrograde transport
+Morphine Action Pathway
+Elastic fibre formation
+Ion transport by P-type ATPases
+Signaling by Rho GTPases
+Arrhythmogenic Right Ventricular Cardiomyopathy
+Adrenergic signaling in cardiomyocytes - Homo sapiens (human)
+Beta-catenin independent WNT signaling
+Glucocorticoid Receptor Pathway
+rRNA modification in the nucleus and cytosol
+rRNA processing in the nucleus and cytosol
+Rap1 signaling pathway - Homo sapiens (human)
+Vascular smooth muscle contraction - Homo sapiens (human)
+Wnt Signaling Pathway and Pluripotency
+Neural Crest Differentiation
+Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human)
+Molecules associated with elastic fibres
+Prostaglandin Synthesis and Regulation
+Integrin
+COPI-mediated anterograde transport
+TGF-beta signaling pathway - Homo sapiens (human)
+"Celecoxib Pathway, Pharmacodynamics"
+Basal cell carcinoma - Homo sapiens (human)
+Bacterial invasion of epithelial cells - Homo sapiens (human)
+skeletal muscle hypertrophy is regulated via akt-mtor pathway
+"Thiopurine Pathway, Pharmacokinetics/Pharmacodynamics"
+Gastric acid secretion - Homo sapiens (human)
+Vesicle-mediated transport
+"Formation of the ternary complex, and subsequently, the 43S complex"
+Phospholipase D signaling pathway - Homo sapiens (human)
+Mitochondrial translation initiation
+Mitochondrial translation termination
+TCF dependent signaling in response to WNT
+role of ran in mitotic spindle regulation
+"Nicotine Pathway (Dopaminergic Neuron), Pharmacodynamics"
+Ion homeostasis
+Phosphatidylinositol signaling system - Homo sapiens (human)
+Mitochondrial translation
+Cholinergic synapse - Homo sapiens (human)
+Reelin signaling pathway
+tRNA Aminoacylation
+Melanogenesis - Homo sapiens (human)
+Glioma - Homo sapiens (human)
+rRNA processing
+Stabilization and expansion of the E-cadherin adherens junction
+TGF-beta Signaling Pathway
+Transcriptional misregulation in cancer - Homo sapiens (human)
+Cell Cycle
+Endochondral Ossification
+Breast cancer - Homo sapiens (human)
+B Cell Receptor Signaling Pathway
+B Cell Receptor Signaling Pathway
+Insulin Signaling
+ER to Golgi Anterograde Transport
+Mitochondrial translation elongation
+COPI-dependent Golgi-to-ER retrograde traffic
+"Antiarrhythmic Pathway, Pharmacodynamics"
+Ca2+ pathway
+VEGFA-VEGFR2 Signaling Pathway
+Inositol phosphate metabolism
+Renin secretion - Homo sapiens (human)
+Post-translational protein modification
+Wnt Canonical
+Wnt Mammals
+Response to elevated platelet cytosolic Ca2+
+Fructose Mannose metabolism
+Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling
+EPH-ephrin mediated repulsion of cells
+Neuronal System
+Vitamin B9 (folate) metabolism
+Platelet degranulation 
+Membrane Trafficking
+Glycosaminoglycan metabolism
+G Protein Signaling Pathways
+"Ifosfamide Pathway, Pharmacodynamics"
+Repression of WNT target genes
+Carvedilol Action Pathway
+Labetalol Action Pathway
+MAPK3 (ERK1) activation
+Folding of actin by CCT/TriC
+"EGFR Inhibitor Pathway, Pharmacodynamics"
+ECM-receptor interaction - Homo sapiens (human)
+Phenytoin (Antiarrhythmic) Action Pathway
+Transmembrane transport of small molecules
+G13 Signaling Pathway
+"Proton Pump Inhibitor Pathway, Pharmacodynamics"
+Kit receptor signaling pathway
+Integrin-mediated Cell Adhesion
+"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S"
+Mesodermal Commitment Pathway
+mTOR signaling pathway - Homo sapiens (human)
+Circadian entrainment - Homo sapiens (human)
+"Cyclophosphamide Pathway, Pharmacodynamics"
+"Unblocking of NMDA receptor, glutamate binding and activation"
+endocytotic role of ndk phosphins and dynamin
+erk and pi-3 kinase are necessary for collagen binding in corneal epithelia
+FGF signaling pathway
+Bopindolol Action Pathway
+Timolol Action Pathway
+Carteolol Action Pathway
+Bevantolol Action Pathway
+Practolol Action Pathway
+Dobutamine Action Pathway
+Isoprenaline Action Pathway
+Arbutamine Action Pathway
+Levobunolol Action Pathway
+Metipranolol Action Pathway
+Sotalol Action Pathway
+Epinephrine Action Pathway
+Betaxolol Action Pathway
+Atenolol Action Pathway
+Alprenolol Action Pathway
+Acebutolol Action Pathway
+Propranolol Action Pathway
+Pindolol Action Pathway
+Penbutolol Action Pathway
+Oxprenolol Action Pathway
+Metoprolol Action Pathway
+Esmolol Action Pathway
+Bisoprolol Action Pathway
+Bupranolol Action Pathway
+Nebivolol Action Pathway
+Nadolol Action Pathway
+Muscle/Heart Contraction
+Diltiazem Action Pathway
+Amlodipine Action Pathway
+Verapamil Action Pathway
+Nitrendipine Action Pathway
+Nisoldipine Action Pathway
+Nimodipine Action Pathway
+Isradipine Action Pathway
+Nifedipine Action Pathway
+Felodipine Action Pathway
+Amiodarone Action Pathway
+Ibutilide Action Pathway
+Quinidine Action Pathway
+Procainamide (Antiarrhythmic) Action Pathway
+Disopyramide Action Pathway
+Fosphenytoin (Antiarrhythmic) Action Pathway
+Mexiletine Action Pathway
+Tocainide Action Pathway
+Flecainide Action Pathway
+Wnt Signaling Pathway
+IL6-mediated signaling events
+IL-5 Signaling Pathway
+Ras signaling pathway - Homo sapiens (human)
+Irinotecan Action Pathway
+Irinotecan Metabolism Pathway
+Cardiac Progenitor Differentiation
+Purine nucleotides nucleosides metabolism
+Neurotrophic factor-mediated Trk receptor signaling
+XBP1(S) activates chaperone genes
+Metabolism of carbohydrates
+Translation initiation complex formation
+Amphetamine addiction - Homo sapiens (human)
+Factors involved in megakaryocyte development and platelet production
+Cardiac conduction
+Fluoropyrimidine Activity
+Regulation of actin cytoskeleton - Homo sapiens (human)
+C20 prostanoid biosynthesis
+YAP1- and WWTR1 (TAZ)-stimulated gene expression
+"Carnosinuria, carnosinemia"
+Ureidopropionase deficiency
+GABA-Transaminase Deficiency
+Beta-Alanine Metabolism
+Platelet homeostasis
+Intra-Golgi and retrograde Golgi-to-ER traffic
+HS-GAG biosynthesis
+Endocytosis - Homo sapiens (human)
+Formation of the beta-catenin:TCF transactivating complex
+Morphine Metabolism Pathway
+Cell-extracellular matrix interactions
+Ribosomal scanning and start codon recognition
+Alcoholism - Homo sapiens (human)
+WNT-Core
+Etoposide Action Pathway
+Etoposide Metabolism Pathway
+Platelet activation - Homo sapiens (human)
+"Busulfan Pathway, Pharmacodynamics"
+Smooth Muscle Contraction
+L1CAM interactions
+Hedgehog signaling events mediated by Gli proteins
+RMTs methylate histone arginines
+Spinal Cord Injury
+Heparan sulfate/heparin (HS-GAG) metabolism
+Small cell lung cancer - Homo sapiens (human)
+EGF-Core
+Common Pathways Underlying Drug Addiction
+Class I PI3K signaling events
+Integrin-linked kinase signaling
+Inositol phosphate metabolism - Homo sapiens (human)
+Wnt Signaling Pathway Netpath
+Vibrio cholerae infection - Homo sapiens (human)
+ECM proteoglycans
+pyrimidine deoxyribonucleotide phosphorylation
+Purine ribonucleoside monophosphate biosynthesis
+Ethanol oxidation
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein"
+Effects of PIP2 hydrolysis
+Phagosome - Homo sapiens (human)
+Chronic myeloid leukemia - Homo sapiens (human)
+IFN-gamma pathway
+IL-6 signaling pathway
+Signaling by Interleukins
+AMP-activated Protein Kinase (AMPK) Signaling
+Lidocaine (Antiarrhythmic) Action Pathway
+IL1 and megakaryocytes in obesity
+inhibition of matrix metalloproteinases
+Rho GTPase cycle
+"Methotrexate Pathway (Cancer Cell), Pharmacodynamics"
+ERBB2 Regulates Cell Motility
+superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis
+Eicosanoid ligand-binding receptors
+Regulation of Apoptosis by Parathyroid Hormone-related Protein
+Glycosphingolipid biosynthesis - ganglioseries
+regulation of pgc-1a
+"Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer,s disease models"
+Neurodegenerative Diseases
+Ion channel transport
+Signaling by Insulin receptor
+Heroin Action Pathway
+Folate metabolism
+RHO GTPase Effectors
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+Thymic Stromal LymphoPoietin (TSLP) Signaling Pathway
+Signaling events mediated by Stem cell factor receptor (c-Kit)
+RXR and RAR heterodimerization with other nuclear receptor
+TNFalpha
+Metabolism of lipids and lipoproteins
+p53 signaling pathway - Homo sapiens (human)
+Regulation of nuclear beta catenin signaling and target gene transcription
+IRS-related events triggered by IGF1R
+IGF1R signaling cascade
+Developmental Biology
+Dopaminergic synapse - Homo sapiens (human)
+G alpha (12/13) signalling events
+Aldosterone-regulated sodium reabsorption - Homo sapiens (human)
+CMP phosphorylation
+The role of GTSE1 in G2/M progression after G2 checkpoint
+Interactions of neurexins and neuroligins at synapses
+Nephrin interactions
+eicosanoid metabolism
+Mitochondrial tRNA aminoacylation
+PLK1 signaling events
+nfat and hypertrophy of the heart 
+Iron uptake and transport
+Phospholipid metabolism
+N-Glycan biosynthesis - Homo sapiens (human)
+Aquaporin-mediated transport
+Thyroid hormone signaling pathway - Homo sapiens (human)
+Platelet calcium homeostasis
+Deactivation of the beta-catenin transactivating complex
+Aurora A signaling
+Globo Sphingolipid Metabolism
+Aminosugars metabolism
+Eicosanoid Synthesis
+Human Thyroid Stimulating Hormone (TSH) signaling pathway
+Hypoacetylaspartia
+Aspartate Metabolism
+Canavan Disease
+Trafficking of GluR2-containing AMPA receptors
+Protein-protein interactions at synapses
+Activation of NMDA receptor upon glutamate binding and postsynaptic events
+tRNA charging
+One Carbon Metabolism
+GPCR GroupI metabotropic glutamate receptor
+Semaphorin interactions
+ErbB signaling pathway - Homo sapiens (human)
+Ethanol Degradation
+"Activation of NIMA Kinases NEK9, NEK6, NEK7"
+Transport to the Golgi and subsequent modification
+Protein processing in endoplasmic reticulum - Homo sapiens (human)
+Cell cycle - Homo sapiens (human)
+Oocyte meiosis - Homo sapiens (human)
+Fructose and mannose metabolism - Homo sapiens (human)
+BDNF-TrkB Signaling
+Serotonin HTR1 Group and FOS Pathway

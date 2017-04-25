@@ -1,0 +1,508 @@
+Metabolism
+Peroxisome - Homo sapiens (human)
+"Valine, leucine and isoleucine degradation - Homo sapiens (human)"
+Cell Cycle
+"Valine, leucine and isoleucine degradation"
+Valine Leucine Isoleucine degradation
+Fatty acid degradation - Homo sapiens (human)
+Amino Acid metabolism
+Saturated fatty acids beta-oxidation
+"Cell Cycle, Mitotic"
+3-Methylglutaconic Aciduria Type I
+"Valine, Leucine and Isoleucine Degradation"
+2-Methyl-3-Hydroxybutryl CoA Dehydrogenase Deficiency
+Isovaleric Aciduria
+3-Methylcrotonyl Coa Carboxylase Deficiency Type I
+Propionic Acidemia
+Maple Syrup Urine Disease
+3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency
+Isobutyryl-coa dehydrogenase deficiency
+3-hydroxyisobutyric aciduria
+3-hydroxyisobutyric acid dehydrogenase deficiency
+Isovaleric acidemia
+Methylmalonate Semialdehyde Dehydrogenase Deficiency
+Methylmalonic Aciduria
+3-Methylglutaconic Aciduria Type IV
+3-Methylglutaconic Aciduria Type III
+Beta-Ketothiolase Deficiency
+"Glycine, serine and threonine metabolism - Homo sapiens (human)"
+Mono-unsaturated fatty acid beta-oxidation
+Nuclear Receptors Meta-Pathway
+Cell Cycle Checkpoints
+Leukotriene metabolism
+fatty acid &beta;-oxidation (peroxisome)
+"Fatty acid, triacylglycerol, and ketone body metabolism"
+Tryptophan degradation
+TNF alpha Signaling Pathway
+3-Phosphoglycerate dehydrogenase deficiency
+Non Ketotic Hyperglycinemia
+Glycine and Serine Metabolism
+Dimethylglycine Dehydrogenase Deficiency
+"Hyperglycinemia, non-ketotic"
+Dimethylglycine Dehydrogenase Deficiency
+Sarcosinemia
+Dihydropyrimidine Dehydrogenase Deficiency (DHPD)
+Propanoate metabolism
+Branched-chain amino acid catabolism
+Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)
+Glycine Serine metabolism
+a6b1 and a6b4 Integrin signaling
+Metabolism of lipids and lipoproteins
+Bile acid biosynthesis
+Histidine metabolism
+"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)"
+Mitochondrial LC-Fatty Acid Beta-Oxidation
+Cell cycle - Homo sapiens (human)
+Axon guidance - Homo sapiens (human)
+Lysine degradation
+Scavenging of heme from plasma
+G2/M Checkpoints
+p53 signaling pathway - Homo sapiens (human)
+Integrated Pancreatic Cancer Pathway
+FoxO family signaling
+Long chain acyl-CoA dehydrogenase deficiency (LCAD)
+Trifunctional protein deficiency
+Carnitine palmitoyl transferase deficiency (II)
+Very-long-chain acyl coa dehydrogenase deficiency (VLCAD)
+Medium chain acyl-coa dehydrogenase deficiency (MCAD)
+Short Chain Acyl CoA Dehydrogenase Deficiency (SCAD Deficiency)
+Fatty acid Metabolism
+Glutaric Aciduria Type I
+Ethylmalonic Encephalopathy
+Carnitine palmitoyl transferase deficiency (I)
+Butanoate metabolism - Homo sapiens (human)
+Platelet degranulation 
+Biological oxidations
+DNA Damage Response
+Fatty Acid Biosynthesis
+Small cell lung cancer - Homo sapiens (human)
+Retinoblastoma (RB) in Cancer
+Response to elevated platelet cytosolic Ca2+
+Metapathway biotransformation
+Cell Cycle
+Mineral absorption - Homo sapiens (human)
+Glycolysis Gluconeogenesis
+p73 transcription factor network
+Trk receptor signaling mediated by PI3K and PLC-gamma
+Aurora B signaling
+"Methotrexate Pathway (Cancer Cell), Pharmacodynamics"
+Metabolism of carbohydrates
+Di-unsaturated fatty acid beta-oxidation
+Butanoate metabolism
+Metabolism of amino acids and derivatives
+Pyruvate metabolism
+fatty acid &beta;-oxidation
+Propanoate metabolism - Homo sapiens (human)
+Tryptophan metabolism
+Pyruvate metabolism - Homo sapiens (human)
+ATR signaling pathway
+Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids
+RHO GTPase Effectors
+Validated targets of C-MYC transcriptional activation
+NRF2 pathway
+Binding and Uptake of Ligands by Scavenger Receptors
+Signaling by Rho GTPases
+Endometrial cancer - Homo sapiens (human)
+Pentose phosphate cycle
+Tryptophan metabolism - Homo sapiens (human)
+Alanine and aspartate metabolism
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex
+Dimethyl-branched-chain fatty acid mitochondrial beta-oxidation
+isoleucine degradation
+phospholipids as signalling intermediaries
+Transmembrane transport of small molecules
+Tryptophan metabolism
+phosphoinositides and their downstream targets
+Pathways in cancer - Homo sapiens (human)
+androgen biosynthesis
+phosphorylation of mek1 by cdk5/p35 down regulates the map kinase pathway
+Arginine Proline metabolism
+beta-Alanine metabolism - Homo sapiens (human)
+Signaling by ERBB4
+the igf-1 receptor and longevity
+Phytanic acid peroxisomal oxidation
+Sema3A PAK dependent Axon repulsion
+Prostate cancer - Homo sapiens (human)
+Kinesins
+Focal Adhesion
+ECM-receptor interaction - Homo sapiens (human)
+Non-small cell lung cancer - Homo sapiens (human)
+Glyoxylate metabolism and glycine degradation
+Propanoate metabolism
+Alanine Aspartate Asparagine metabolism
+"Urea cycle and metabolism of arginine, proline, glutamate, aspartate and asparagine"
+G2/M DNA damage checkpoint
+Histidine degradation
+Ketone body metabolism
+"Carnosinuria, carnosinemia"
+Ureidopropionase deficiency
+GABA-Transaminase Deficiency
+Beta-Alanine Metabolism
+TNF signaling pathway - Homo sapiens (human)
+Zinc homeostasis
+E-cadherin signaling in keratinocytes
+Omega-6 fatty acid metabolism
+EPH-ephrin mediated repulsion of cells
+Pentose phosphate pathway - Homo sapiens (human)
+Beta1 integrin cell surface interactions
+PI3K-Akt signaling pathway - Homo sapiens (human)
+Ras activation uopn Ca2+ infux through NMDA receptor
+Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
+Polo-like kinase mediated events
+Mitotic G1-G1/S phases
+trka receptor signaling pathway
+"Antimetabolite Pathway - Folate Cycle, Pharmacodynamics"
+valine degradation
+Histidine Metabolism
+Histidinemia
+Semaphorin interactions
+PPAR signaling pathway
+Photodynamic therapy-induced AP-1 survival signaling.
+Tyrosine metabolism
+Diseases of signal transduction
+Mitotic G2-G2/M phases
+AMPK signaling pathway - Homo sapiens (human)
+p75(NTR)-mediated signaling
+Glioma - Homo sapiens (human)
+Histidine metabolism - Homo sapiens (human)
+Trans-sulfuration and one carbon metabolism
+Integrin
+"Platelet activation, signaling and aggregation"
+Mitotic Prometaphase
+Axon guidance
+PPAR signaling pathway - Homo sapiens (human)
+Gluconeogenesis
+"Glycogenosis, Type IA. Von gierke disease"
+"Glycogenosis, Type IC"
+Glycogen Storage Disease Type 1A (GSD1A) or Von Gierke Disease
+Triosephosphate isomerase
+"Fructose-1,6-diphosphatase deficiency"
+Phosphoenolpyruvate carboxykinase deficiency 1 (PEPCK1)
+"Glycogenosis, Type IB"
+Pyruvate Dehydrogenase Complex Deficiency
+"Primary hyperoxaluria II, PH2"
+Pyruvate kinase deficiency
+Leigh Syndrome
+Pyruvate Metabolism
+Pyruvate Decarboxylase E1 Component Deficiency (PDHE1 Deficiency)
+Melatonin metabolism and effects
+Peroxisomal lipid metabolism
+M Phase
+Glycolysis / Gluconeogenesis - Homo sapiens (human)
+Rac1-Pak1-p38-MMP-2 pathway
+ras signaling pathway
+Arginine and proline metabolism - Homo sapiens (human)
+nerve growth factor pathway (ngf)
+ketogenesis
+Synthesis of Ketone Bodies
+Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids
+Short-chain 3-hydroxyacyl-CoA dehydrogenase deficiency (SCHAD)
+Butyrate Metabolism
+Glucose metabolism
+"Thiopurine Pathway, Pharmacokinetics/Pharmacodynamics"
+Gastric Cancer Network 2
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants
+Signaling by Ligand-Responsive EGFR Variants in Cancer
+Signaling by EGFR in Cancer
+G2/M Transition
+Activation of ATR in response to replication stress
+inactivation of gsk3 by akt causes accumulation of b-catenin in alveolar macrophages
+Vesicle-mediated transport
+Complement and coagulation cascades - Homo sapiens (human)
+Hypoacetylaspartia
+Aspartate Metabolism
+Canavan Disease
+Pentose Phosphate Pathway
+Glucose-6-phosphate dehydrogenase deficiency
+Ribose-5-phosphate isomerase deficiency
+Transaldolase deficiency
+Malonyl-coa decarboxylase deficiency
+Malonic Aciduria
+Propanoate Metabolism
+Methylmalonic Aciduria Due to Cobalamin-Related Disorders
+SHC1 events in ERBB4 signaling
+alternative complement pathway
+Synthesis and degradation of ketone bodies - Homo sapiens (human)
+ErbB Signaling Pathway
+Copper homeostasis
+lectin induced complement pathway
+Trihydroxycoprostanoyl-CoA beta-oxidation
+leucine degradation
+Metallothioneins bind metals
+Response to metal ions
+17-Beta Hydroxysteroid Dehydrogenase III Deficiency
+Androgen and Estrogen Metabolism
+Aromatase deficiency
+Condensation of Prometaphase Chromosomes
+FOXA2 and FOXA3 transcription factor networks
+intrinsic prothrombin activation pathway
+2-Hydroxyglutric Aciduria (D And L Form)
+Homocarnosinosis
+Hyperinsulinism-Hyperammonemia Syndrome
+Succinic semialdehyde dehydrogenase deficiency
+4-Hydroxybutyric Aciduria/Succinic Semialdehyde Dehydrogenase Deficiency
+Glutamate Metabolism
+Proximal tubule bicarbonate reclamation - Homo sapiens (human)
+Class I PI3K signaling events mediated by Akt
+Prion diseases - Homo sapiens (human)
+Programmed Cell Death
+Phase II conjugation
+Ceramide signaling pathway
+One Carbon Metabolism
+EGF
+FOXM1 transcription factor network
+BDNF-TrkB Signaling
+ceramide signaling pathway
+TGF-beta receptor signaling
+Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human)
+Neurotransmitter Release Cycle
+Metabolism of vitamins and cofactors
+Ephrin signaling
+akt signaling pathway
+TGF-beta Signaling Pathway
+PPAR Alpha Pathway
+Succinyl CoA: 3-ketoacid CoA transferase deficiency
+Ketone Body Metabolism
+G2/M DNA replication checkpoint
+Synthesis and Degradation of Ketone Bodies
+ketolysis
+Mitotic G2-G2-M phases
+Catabolism of glucuronate to xylulose-5-phosphate
+Fatty Acyl-CoA Biosynthesis
+TNF related weak inducer of apoptosis (TWEAK) Signaling Pathway
+APC/C-mediated degradation of cell cycle proteins
+Regulation of mitotic cell cycle
+RHO GTPases Activate Formins
+DNA replication - Homo sapiens (human)
+Leptin signaling pathway
+RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+Factors involved in megakaryocyte development and platelet production
+Butanoate metabolism
+Physiological and Pathological Hypertrophy of the Heart
+DNA Damage Response (only ATM dependent)
+PLK1 signaling events
+TNFalpha
+Constitutive Signaling by EGFRvIII
+Signaling by EGFRvIII in Cancer
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion
+CREB phosphorylation through the activation of Ras
+Gastric Cancer Network 1
+Apoptosis
+Fatty Acid Beta Oxidation
+Tyrosine metabolism
+Translocation of GLUT4 to the plasma membrane
+Transmission across Chemical Synapses
+Alpha6Beta4Integrin
+Fibroblast growth factor-1
+Angiopoietin Like Protein 8 Regulatory Pathway
+Arf6 trafficking events
+Cyclin A/B1 associated events during G2/M transition
+SHC1 events in ERBB2 signaling
+Mitochondrial Fatty Acid Beta-Oxidation
+stearate biosynthesis
+Argininemia
+Citrullinemia Type I
+Carbamoyl Phosphate Synthetase Deficiency
+Argininosuccinic Aciduria
+Urea Cycle
+Ornithine Transcarbamylase Deficiency (OTC Deficiency)
+L-kynurenine degradation
+Gemcitabine Action Pathway
+Gemcitabine Metabolism Pathway
+sarcosine oncometabolite pathway 
+Golgi-to-ER retrograde transport
+Arachidonate Epoxygenase - Epoxide Hydrolase
+cdc25 and chk1 regulatory pathway in response to dna damage
+thyroid hormone metabolism II (via conjugation and/or degradation)
+Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+Hepatitis C and Hepatocellular Carcinoma
+Post NMDA receptor activation events
+3-oxo-10R-octadecatrienoate beta-oxidation
+Androgen biosynthesis
+Biotin transport and metabolism
+Dermatan sulfate biosynthesis
+The role of GTSE1 in G2/M progression after G2 checkpoint
+Endogenous TLR signaling
+COPI-dependent Golgi-to-ER retrograde traffic
+Terminal pathway of complement
+Methylation Pathways
+tryptophan degradation
+DNA strand elongation
+Amino acid synthesis and interconversion (transamination)
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins
+ABC-family proteins mediated transport
+ErbB1 downstream signaling
+Insulin Pathway
+Serotonin Receptor 2 and ELK-SRF-GATA4 signaling
+MET activates PTK2 signaling
+Nuclear signaling by ERBB4
+One carbon pool by folate - Homo sapiens (human)
+Corticotropin-releasing hormone signaling pathway
+Metabolism of polyamines
+EPH-Ephrin signaling
+Integrin cell surface interactions
+HIF-1-alpha transcription factor network
+Tyrosine metabolism - Homo sapiens (human)
+TRIF-mediated TLR3/TLR4 signaling 
+MyD88-independent TLR3/TLR4 cascade 
+Toll Like Receptor 3 (TLR3) Cascade
+Resolution of Sister Chromatid Cohesion
+Complement and Coagulation Cascades
+Omega-3 fatty acid metabolism
+Plasma membrane estrogen receptor signaling
+Bile acid and bile salt metabolism
+TP53 Regulates Transcription of Cell Cycle Genes
+Oxidation by Cytochrome P450
+insulin
+E2F transcription factor network
+ATM Signaling Network in Development and Disease
+Fanconi anemia pathway
+Focal adhesion - Homo sapiens (human)
+Pyrimidine Metabolism
+UMP Synthase Deiciency (Orotic Aciduria)
+MNGIE (Mitochondrial Neurogastrointestinal Encephalopathy)
+Beta Ureidopropionase Deficiency
+Dihydropyrimidinase Deficiency
+Iminoglycinuria
+Lysinuric Protein Intolerance
+Blue diaper syndrome
+Lysinuric protein intolerance (LPI)
+Cystinuria
+Hartnup Disorder
+Glucose Transporter Defect (SGLT2)
+Kidney Function
+Glucose Transporter Defect (SGLT2)
+Quinethazone Action Pathway
+Bendroflumethiazide Action Pathway
+Chlorthalidone Action Pathway
+Trichlormethiazide Action Pathway
+Indapamide Action Pathway
+Metolazone Action Pathway
+Hydrochlorothiazide Action Pathway
+Cyclothiazide Action Pathway
+Hydroflumethiazide Action Pathway
+Polythiazide Action Pathway
+Methyclothiazide Action Pathway
+Chlorothiazide Action Pathway
+role of egf receptor transactivation by gpcrs in cardiac hypertrophy
+Spironolactone Action Pathway
+Eplerenone Action Pathway
+Triamterene Action Pathway
+Amiloride Action Pathway
+Torsemide Action Pathway
+Bumetanide Action Pathway
+Ethacrynic Acid Action Pathway
+Furosemide Action Pathway
+Toll-like Receptor Signaling Pathway
+Glutamate Glutamine metabolism
+G1 to S cell cycle control
+Regulation of KIT signaling
+estrogen responsive protein efp controls cell cycle and breast tumors growth
+GRB2 events in ERBB2 signaling
+Bile secretion - Homo sapiens (human)
+CDC42 signaling events
+Malaria - Homo sapiens (human)
+Activated TLR4 signalling
+Dengue-2 Interactions with Complement and Coagulation Cascades
+E-cadherin signaling in the nascent adherens junction
+IGF signaling
+toll-like receptor pathway
+Metabolism of nucleotides
+Signaling by Retinoic Acid
+Death Receptor Signalling
+NGF
+Syndecan interactions
+"Glycine, serine, alanine and threonine metabolism"
+"Ifosfamide Pathway, Pharmacodynamics"
+classical complement pathway
+Golgi Cisternae Pericentriolar Stack Reorganization
+SLC-mediated transmembrane transport
+Aurora A signaling
+mcalpain and friends in cell motility
+ErbB4 signaling events
+APC/C:Cdc20 mediated degradation of mitotic proteins
+Signaling Pathways in Glioblastoma
+Pyrimidine metabolism
+Thyroid hormone signaling pathway - Homo sapiens (human)
+VEGFA-VEGFR2 Signaling Pathway
+TNF receptor signaling pathway 
+Internalization of ErbB1
+Vitamin K Metabolism
+glutaryl-CoA degradation
+Composition of Lipid Particles
+"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)"
+FoxO signaling pathway - Homo sapiens (human)
+Prolactin signaling pathway - Homo sapiens (human)
+Import of palmitoyl-CoA into the mitochondrial matrix
+Oxidation of Branched Chain Fatty Acids
+"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"
+Purine ribonucleoside monophosphate biosynthesis
+ATF-2 transcription factor network
+African trypanosomiasis - Homo sapiens (human)
+Synthesis of bile acids and bile salts
+Viral carcinogenesis - Homo sapiens (human)
+Pyrimidine metabolism - Homo sapiens (human)
+Tryptophan Metabolism
+Other semaphorin interactions
+Developmental Biology
+TGF-beta signaling pathway - Homo sapiens (human)
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+Oxidative Stress Induced Senescence
+Glycolysis and Gluconeogenesis
+ErbB signaling pathway - Homo sapiens (human)
+Apoptosis - Homo sapiens (human)
+mitochondrial fatty acid beta-oxidation of saturated fatty acids
+EGFR Transactivation by Gastrin
+Beta Oxidation of Very Long Chain Fatty Acids
+"Adrenoleukodystrophy, X-linked"
+Carnitine-acylcarnitine translocase deficiency
+"Gemcitabine Pathway, Pharmacodynamics"
+TRIF-mediated programmed cell death
+Sulfur metabolism - Homo sapiens (human)
+Zinc influx into cells by the SLC39 gene family
+tRNA Aminoacylation
+Glutaminolysis and Cancer
+TNF signaling
+Adipocytokine signaling pathway - Homo sapiens (human)
+G1/S Transition
+ECM proteoglycans
+Extracellular matrix organization
+Post-translational modification: synthesis of GPI-anchored proteins
+Processing of DNA double-strand break ends
+VEGF
+Glucagon signaling pathway - Homo sapiens (human)
+Choline catabolism
+lysine degradation II (pipecolate pathway)
+glycine betaine degradation
+"Nevirapine Pathway, Pharmacokinetics"
+Pyrimidine biosynthesis
+folate polyglutamylation
+Beta-oxidation of very long chain fatty acids
+threonine degradation
+superpathway of choline degradation to L-serine
+Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids
+Galactosemia III
+Galactosemia II (GALK)
+Nucleotide Sugars Metabolism
+g-secretase mediated erbb4 signaling pathway
+Phase 1 - Functionalization of compounds
+Constitutive Androstane Receptor Pathway
+Citrate cycle
+Folate metabolism
+"Cyclophosphamide Pathway, Pharmacodynamics"
+CREB phosphorylation through the activation of CaMKII
+tnfr1 signaling pathway
+Primary bile acid biosynthesis - Homo sapiens (human)
+Sulfation Biotransformation Reaction
+Ligand-dependent caspase activation
+superpathway of pyrimidine deoxyribonucleoside salvage
+Protein processing in endoplasmic reticulum - Homo sapiens (human)
+EGF-EGFR Signaling Pathway
+Lysosome - Homo sapiens (human)
+Hippo signaling pathway - Homo sapiens (human)
+Brain-Derived Neurotrophic Factor (BDNF) signaling pathway
+Mitotic Anaphase
+Chemical carcinogenesis - Homo sapiens (human)
+Triglyceride Biosynthesis
+Signaling by ERBB2
+Vitamin B12 Metabolism
