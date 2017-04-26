@@ -1,0 +1,8 @@
+telomerase
+H2AX complex, isolated from cells without IR exposure
+Histone H3.1 complex
+20S Proteasome
+ASF1-interacting protein complex
+U4 snRNP
+U4 snRNP:U6 snRNP complex
+HSP90-FKBP38-CAM-Ca(2+) complex
